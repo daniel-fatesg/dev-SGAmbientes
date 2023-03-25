@@ -1,10 +1,4 @@
-<style>
-    body {
-        background-color: #e6eaf4;
-    }
-</style>
-
-<div align="center">
+<div align="center" style="background-color: #e6eaf4;">
     <img src="imagens/controle-acesso.png" alt="Texto alternativo" />
 </div>
 <br>
