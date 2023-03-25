@@ -1,4 +1,11 @@
-**SGAmbientes
+<style>
+    body {
+        background-color: #e6eaf4;
+    }
+</style>
 
-![alt text](imagens/controle-acesso.png)
-
+<div align="center">
+    <img src="imagens/controle-acesso.png" alt="Texto alternativo" />
+</div>
+<br>
+# SG - Ambientes
