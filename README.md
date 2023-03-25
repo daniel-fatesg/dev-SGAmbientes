@@ -1,4 +1,4 @@
 **SGAmbientes
 
-![alt text](dev-SGAmbientes/imagens/controle-acesso.jpg)
+![alt text](imagens/controle-acesso.png)
 
