@@ -1,7 +1,8 @@
 <div align="center" style="background-color: #e6eaf4;">
-    <img src="imagens/senai-azul.png" alt="Texto alternativo" />
+    <img src="imagens/logo-faculdade.png" alt="Texto alternativo" />
+    
 </div>
-<h2 align="center"> Faculdade SENAI Fatesg </h2>
+<br>
 <div align="center" style="background-color: #e6eaf4;">
     <img src="imagens/controle-acesso.png" alt="Texto alternativo" />
 </div>
