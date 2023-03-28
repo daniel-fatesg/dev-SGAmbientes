@@ -31,6 +31,10 @@ liberar o acesso aos ambientes utilizando  reconhecimento facial;
 <li>
 manter o histórico de acesso a cada ambiente, registrando-se data, horário e usuário que a acessou;
 </li>
+<li>
+cadastrar o embarcado que comandará a abertura da porta e vincular este embarcado a um ambiente específico;
+</li>
+
 </ul>
 
 </p>
