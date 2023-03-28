@@ -29,7 +29,7 @@ o cadastro de usuários com diferentes perfis de acesso: professor, aluno e func
 liberar o acesso aos ambientes utilizando  reconhecimento facial;
 </li>
 <li>
-Manter o histórico de acesso a cada ambiente, registrando-se data, horário e usuário que a acessou;
+manter o histórico de acesso a cada ambiente, registrando-se data, horário e usuário que a acessou;
 </li>
 </ul>
 
