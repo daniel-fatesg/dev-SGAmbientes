@@ -13,12 +13,19 @@
 <h1> Sistema de Controle de Acesso a Ambientes </h1>
 <h3> 1 - Visão Geral do Software </h2>
 <br>
-<p>
-Controlar o acesso a ambientes de sala de aula surge da necessidade de manter a segurança do ambiente, equipamentos, alunos, docentes e funcionários da instituição.Dentro deste contexto, uma das principais necessidades é garantir que somente pessoas autorizadas tenham acesso às salas de aula e outros ambientes restritos, bem como haja privacidade e proteção aos equipamentos com acesso restrito, assegurando o monitoramento dos ambientes mediante o  histórioco de acesso a eles.
-
+<p style="text-align: justify;text-justify: inter-word;">
+Controlar o acesso a ambientes de sala de aula surge da necessidade de manter a segurança do ambiente, equipamentos, alunos, docentes e funcionários da instituição.
+<br>
+Dentro deste contexto, uma das principais necessidades é garantir que somente pessoas autorizadas tenham acesso às salas de aula e outros ambientes restritos, asim como também garantir a privacidade e proteção aos equipamentos com acesso restrito, permitindo assegurando o monitoramento dos ambientes mediante o  histórioco de acesso a eles.
 </p>
 <br>
 <h4> 1.1 - Objetivo do Software </h2>
+<br>
+<p>
+    O objetivo do Sistema de Controle de Acesso a Ambientes é  cadastrar usuários com diferentes perfis de acesso (professores, alunos e funcionários)  e controlar o acesso deles aos diferentes ambientes de sala de aula pré-cadastrado, mediante uma central de reconhecimento facial. 
+
+</p>
+<br>
 <h4> 1.2 - Escopo do Software </h2>
 <br>
 <h4> 1.3 - Requisitos do Software </h2>
