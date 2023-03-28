@@ -13,14 +13,18 @@
 <h1> Sistema de Controle de Acesso a Ambientes </h1>
 <h3> 1 - Visão Geral do Software </h2>
 <br>
-<p style="text-align: justify;text-justify: inter-word;">
+<p>
 Controlar o acesso a ambientes de sala de aula, surge da necessidade de manter a segurança do ambiente, equipamentos, alunos, docentes e funcionários da instituição.Dentro deste contexto, uma das principais necessidades é garantir que somente pessoas autorizadas tenham acesso restrito às salas de aula, de modo a garantir a privacidade e proteção aos recursos de valor deste ambiente. Há também a necessidade de monitorar o histórioco de acesso aos ambientes, registrando-se a data, horário e usuário que acessou um determinado ambiente.
 </p>
 <h4> 1.1 - Objetivo do Software </h2>
 <p>
-    O objetivo principal do Sistema de Controle de Acesso a Ambientes é gerenciar o  acesso a ambientes de sala de aula, utilizando reconhecimento facial.
+    O objetivo principal do Sistema de Controle de Acesso a Ambientes é controlar o acesso a sala de aula utilizando reconhecimento facial. Ao realizar o reconhecimento facial, o sistema deve enviar o comando para tranca eletrônica para liberar o acesso a sala, permitindo não só manter um histórico de acesso, como também restrigir o acesso de certos usuários a um ambiente específico.
 </p>
 <br>
+<div align="center">
+    <img src="imagens/sgambiente.png" alt="Texto alternativo" />
+</div>
+
 <h4> 1.2 - Escopo do Software </h2>
 <br>
 <p>
@@ -45,10 +49,7 @@ cadastrar o embarcado que comandará a abertura da porta e vincular este embarca
 </li>
 
 </ul>
-<br>
-<div align="center">
-    <img src="imagens/sgambiente.png" alt="Texto alternativo" />
-</div>
+
 
 
 <br>
