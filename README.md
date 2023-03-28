@@ -18,7 +18,15 @@ Controlar o acesso a ambientes de sala de aula, surge da necessidade de manter a
 </p>
 <h4> 1.1 - Objetivo do Software </h2>
 <p>
-    O objetivo principal do Sistema de Controle de Acesso a Ambientes é gerenciar o  acesso a ambientes de sala de aula, utilizando reconhecimento facial. Portanto, o sistema deve permitir:
+    O objetivo principal do Sistema de Controle de Acesso a Ambientes é gerenciar o  acesso a ambientes de sala de aula, utilizando reconhecimento facial.
+</p>
+<br>
+<h4> 1.2 - Escopo do Software </h2>
+<br>
+<p>
+O escopo destre projeto consiste em implementar uma aplicação web que implemente:
+</p>Portanto, o sistema deve permitir:
+</p>
 <br>
 <ul>
 <li>o cadastro de diferentes tipos de ambientes: sala de aula, laboratórios e  auditórios;
@@ -37,10 +45,12 @@ cadastrar o embarcado que comandará a abertura da porta e vincular este embarca
 </li>
 
 </ul>
-
-</p>
 <br>
-<h4> 1.2 - Escopo do Software </h2>
+<div align="center">
+    <img src="imagens/sgambiente.png" alt="Texto alternativo" />
+</div>
+
+
 <br>
 <h4> 1.3 - Requisitos do Software </h2>
 <br>
