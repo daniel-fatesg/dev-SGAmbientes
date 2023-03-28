@@ -14,15 +14,24 @@
 <h3> 1 - Visão Geral do Software </h2>
 <br>
 <p style="text-align: justify;text-justify: inter-word;">
-Controlar o acesso a ambientes de sala de aula surge da necessidade de manter a segurança do ambiente, equipamentos, alunos, docentes e funcionários da instituição.
-<br>
-Dentro deste contexto, uma das principais necessidades é garantir que somente pessoas autorizadas tenham acesso às salas de aula e outros ambientes restritos, asim como também garantir a privacidade e proteção aos equipamentos com acesso restrito, permitindo assegurando o monitoramento dos ambientes mediante o  histórioco de acesso a eles.
+Controlar o acesso a ambientes de sala de aula, surge da necessidade de manter a segurança do ambiente, equipamentos, alunos, docentes e funcionários da instituição.Dentro deste contexto, uma das principais necessidades é garantir que somente pessoas autorizadas tenham acesso restrito às salas de aula, de modo a garantir a privacidade e proteção aos recursos de valor deste ambiente. Há também a necessidade de monitorar o histórioco de acesso aos ambientes, registrando-se a data, horário e usuário que acessou um determinado ambiente.
 </p>
-<br>
 <h4> 1.1 - Objetivo do Software </h2>
-<br>
 <p>
-    O objetivo do Sistema de Controle de Acesso a Ambientes é  cadastrar usuários com diferentes perfis de acesso (professores, alunos e funcionários)  e controlar o acesso deles aos diferentes ambientes de sala de aula pré-cadastrado, mediante uma central de reconhecimento facial. 
+    O objetivo principal do Sistema de Controle de Acesso a Ambientes é gerenciar o  acesso a ambientes de sala de aula, utilizando reconhecimento facial. Portanto, o sistema deve permitir:
+<ul>
+<li>o cadastro de diferentes tipos de ambientes: sala de aula, laboratórios e  auditórios;
+</li>
+<li>
+o cadastro de usuários com diferentes perfis de acesso: professor, aluno e funcionários;
+</li>
+<li>
+liberar o acesso aos ambientes utilizando  reconhecimento facial;
+</li>
+<li>
+Manter o histórico de acesso a cada ambiente, registrando-se data, horário e usuário que a acessou;
+</li>
+</ul>
 
 </p>
 <br>
