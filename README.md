@@ -64,12 +64,12 @@ permitir o cadastro do embarcado e o seu vinculo a um ambiente. O embarcado deve
         <tr>
             <td><b>RF01</b></td>
             <td><b>Manter usuários</b></td>
-            <td>o sistema deve permitir incluir, excluir, atualizar e buscar informações do usuário: nome, cpf, celular e e-mail;</td>
+            <td>O sistema deve permitir incluir, excluir, atualizar e buscar informações do usuário, como nome, cpf, celular e e-mail. A busca será realizada pelo e-mail e os dados persistidos em um banco de dados</td>
         </tr>
         <tr>
             <td><b>RF02</b></td>
             <td><b>Autenticar usuários</b></td>
-            <td>o sistema deve permitir incluir, excluir, atualizar e buscar informações do usuário: nome, cpf, celular e e-mail;</td>
+            <td>A autenticação do usuário deve verificada ;</td>
         </tr>
         <tr>
             <td><b>RF03</b></td>
