@@ -10,21 +10,33 @@
     <img src="imagens/controle-acesso.png" alt="Texto alternativo" />
 </div>
 <br>
-<h1> Sistema de Controle de Acesso a Ambientes </h1>
-<h3> 1 - Visão Geral do Software </h2>
-<br>
-<p style="text-align: justify;text-justify: inter-word;">
-Controlar o acesso a ambientes de sala de aula, surge da necessidade de manter a segurança do ambiente, equipamentos, alunos, docentes e funcionários da instituição.Dentro deste contexto, uma das principais necessidades é garantir que somente pessoas autorizadas tenham acesso restrito às salas de aula, de modo a garantir a privacidade e proteção aos recursos de valor deste ambiente. Há também a necessidade de monitorar o histórioco de acesso aos ambientes, registrando-se a data, horário e usuário que acessou um determinado ambiente.
-</p>
-<h4> 1.1 - Objetivo do Software </h2>
+<h2> Sistema de Controle de Acesso a Ambientes </h2>
+<h3> 1 - Visão Geral do Software </h3>
+
 <p>
-    O objetivo principal do Sistema de Controle de Acesso a Ambientes é gerenciar o  acesso a ambientes de sala de aula, utilizando reconhecimento facial. Portanto, o sistema deve permitir:
-<br>
+Controlar o acesso a ambientes de sala de aula, surge da necessidade de garantir a segurança do ambiente, dos equipamentos, dos alunos, docentes e funcionários da instituição. Dentro deste contexto, uma necessidade primordial é assegurar o acesso restrito a ambientes de pessoas autorizadas, de modo a garantir a privacidade e proteção aos recursos de valor dentro desses ambientes. Há também a necessidade de monitorar o histórioco de acesso aos ambientes, registrando-se a data, horário e usuário que acessou um determinado ambiente.
+</p>
+
+<h4> 1.1 - Objetivo do Software </h4>
+
+<p>
+   O objetivo do Sistema de Controle de Acesso a Ambientes é gerenciar o acesso a sala de aula, utilizando reconhecimento facial. Sua função principal consiste em reconher a face do usário, autorizar o  acesso, comandar a liberação da tranca eletromagnética do ambiente e manter o histórico com data, horário e usuário que acessou aquele espaço.
+</p>
+<div align="center">
+    <img src="imagens/sgambiente.png" alt="Texto alternativo" />
+</div>
+
+<h4> 1.2 - Escopo do Projeto e Requisitos de Software </h4>
+
+<p>
+O escopo deste projeto restringe-se a implementar uma aplicação web que contemple os seguintes requisitos funcionais:
+</p>
+
 <ul>
-<li>o cadastro de diferentes tipos de ambientes: sala de aula, laboratórios e  auditórios;
+<li> permitir o cadastro de diferentes tipos de ambientes, como sala de aula, laboratórios e  auditórios;
 </li>
 <li>
-o cadastro de usuários com diferentes perfis de acesso: professor, aluno e funcionários;
+permitir o cadastro de usuários com diferentes perfis de acesso, tal como professor, aluno e funcionários;
 </li>
 <li>
 liberar o acesso aos ambientes utilizando  reconhecimento facial;
@@ -33,43 +45,41 @@ liberar o acesso aos ambientes utilizando  reconhecimento facial;
 manter o histórico de acesso a cada ambiente, registrando-se data, horário e usuário que a acessou;
 </li>
 <li>
-cadastrar o embarcado que comandará a abertura da porta e vincular este embarcado a um ambiente específico;
+permitir o cadastro do embarcado e o seu vinculo a um ambiente. O embarcado deve  comandar a liberação da tranca eletromagnética para o acesso a sala de aula.
 </li>
 
 </ul>
 
-</p>
-<br>
-<h4> 1.2 - Escopo do Software </h2>
-<br>
-<h4> 1.3 - Requisitos do Software </h2>
-<br>
-<p>Lista de requisitos</p>
 <br>
 <div align="center">
 <table>
     <thead>
     <tr>
         <th>ID</>
+        <th> Nome </th>
         <th>DESCRIÇÃO</>
     </tr>
     </thead>
     <tbody>
         <tr>
-            <td>RF01</td>
-            <td>Cadastrar usuários</td>
+            <td><b>RF01</b></td>
+            <td><b>Manter usuários</b></td>
+            <td>O sistema deve permitir incluir, excluir, atualizar e buscar informações do usuário, como nome, cpf, celular e e-mail. A busca será realizada pelo e-mail e os dados persistidos em um banco de dados</td>
         </tr>
         <tr>
-            <td>RF02</td>
-            <td>Autenticar usuários</td>
+            <td><b>RF02</b></td>
+            <td><b>Autenticar usuários</b></td>
+            <td>A autenticação do usuário deve verificada ;</td>
         </tr>
         <tr>
-            <td>RF03</td>
-            <td>Manter perfil de usuários</td>
+            <td><b>RF03</b></td>
+            <td><b>Manter perfil de usuários</b></td>
+            <td>o sistema deve permitir incluir, excluir, atualizar e buscar informações do usuário: nome, cpf, celular e e-mail;</td>
         </tr>
         <tr>
-            <td>RF03</td>
-            <td>Manter contato</td>
+            <td><b>RF04</b></td>
+            <td><b>Manter contato</b></td>
+            <td>o sistema deve permitir incluir, excluir, atualizar e buscar informações do usuário: nome, cpf, celular e e-mail;</td>
         </tr>
     </tbody>
 </table>
