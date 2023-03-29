@@ -50,12 +50,6 @@ permitir o cadastro do embarcado e o seu vinculo a um ambiente. O embarcado deve
 
 </ul>
 
-
-
-<br>
-<h4> 1.3 - Requisitos do Software </h2>
-<br>
-<p>Lista de requisitos</p>
 <br>
 <div align="center">
 <table>
@@ -68,23 +62,23 @@ permitir o cadastro do embarcado e o seu vinculo a um ambiente. O embarcado deve
     </thead>
     <tbody>
         <tr>
-            <td>RF01</td>
-            <td>Manter usuários</td>
+            <td><b>RF01</b></td>
+            <td><b>Manter usuários</b></td>
             <td>o sistema deve permitir incluir, excluir, atualizar e buscar informações do usuário: nome, cpf, celular e e-mail;</td>
         </tr>
         <tr>
-            <td>RF02</td>
-            <td>Autenticar usuários</td>
+            <td><b>RF02</b></td>
+            <td><b>Autenticar usuários</b></td>
             <td>o sistema deve permitir incluir, excluir, atualizar e buscar informações do usuário: nome, cpf, celular e e-mail;</td>
         </tr>
         <tr>
-            <td>RF03</td>
-            <td>Manter perfil de usuários</td>
+            <td><b>RF03</b></td>
+            <td><b>Manter perfil de usuários</b></td>
             <td>o sistema deve permitir incluir, excluir, atualizar e buscar informações do usuário: nome, cpf, celular e e-mail;</td>
         </tr>
         <tr>
-            <td>RF03</td>
-            <td>Manter contato</td>
+            <td><b>RF04</b></td>
+            <td><b>Manter contato</b></td>
             <td>o sistema deve permitir incluir, excluir, atualizar e buscar informações do usuário: nome, cpf, celular e e-mail;</td>
         </tr>
     </tbody>
