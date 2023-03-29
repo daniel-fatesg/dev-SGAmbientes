@@ -18,7 +18,7 @@ Controlar o acesso a ambientes de sala de aula, surge da necessidade de manter a
 </p>
 <h4> 1.1 - Objetivo do Software </h2>
 <p>
-    O objetivo principal do Sistema de Controle de Acesso a Ambientes é controlar o acesso a sala de aula utilizando reconhecimento facial. Ao realizar o reconhecimento facial, o sistema deve enviar o comando para tranca eletrônica para liberar o acesso a sala, permitindo não só manter um histórico de acesso, como também restrigir o acesso de certos usuários a um ambiente específico.
+   O objetivo do Sistema de Controle de Acesso a Ambientes é gerenciar o acesso a sala de aula, utilizando reconhecimento facial. Sua função principal consiste em reconher a face do usário, autorizar o  acesso e comandar a liberação da tranca eletromagnética do ambiente,assim como também manter o histórico com data, horário e usuário que acessou aquele espaço.
 </p>
 <br>
 <div align="center">
@@ -28,15 +28,15 @@ Controlar o acesso a ambientes de sala de aula, surge da necessidade de manter a
 <h4> 1.2 - Escopo do Software </h2>
 <br>
 <p>
-O escopo destre projeto consiste em implementar uma aplicação web que implemente:
-</p>Portanto, o sistema deve permitir:
+O escopo deste projeto restringe-se a implementar uma aplicação web que contemple as seguintes funcionalidades:
+</p>
 </p>
 <br>
 <ul>
-<li>o cadastro de diferentes tipos de ambientes: sala de aula, laboratórios e  auditórios;
+<li> permitir o cadastro de diferentes tipos de ambientes, como sala de aula, laboratórios e  auditórios;
 </li>
 <li>
-o cadastro de usuários com diferentes perfis de acesso: professor, aluno e funcionários;
+permitir o cadastro de usuários com diferentes perfis de acesso, tal como professor, aluno e funcionários;
 </li>
 <li>
 liberar o acesso aos ambientes utilizando  reconhecimento facial;
@@ -45,7 +45,7 @@ liberar o acesso aos ambientes utilizando  reconhecimento facial;
 manter o histórico de acesso a cada ambiente, registrando-se data, horário e usuário que a acessou;
 </li>
 <li>
-cadastrar o embarcado que comandará a abertura da porta e vincular este embarcado a um ambiente específico;
+permitir o cadastro do embarcado e o seu vinculo a um ambiente. O embarcado deve  comandar a liberação da tranca eletromagnética para o acesso a sala de aula.
 </li>
 
 </ul>
