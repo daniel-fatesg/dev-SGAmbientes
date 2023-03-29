@@ -10,28 +10,28 @@
     <img src="imagens/controle-acesso.png" alt="Texto alternativo" />
 </div>
 <br>
-<h1> Sistema de Controle de Acesso a Ambientes </h1>
-<h3> 1 - Visão Geral do Software </h2>
-<br>
+<h2> Sistema de Controle de Acesso a Ambientes </h2>
+<h3> 1 - Visão Geral do Software </h3>
+
 <p>
-Controlar o acesso a ambientes de sala de aula, surge da necessidade de garantir a segurança do ambiente, dos equipamentos, dos alunos, docentes e funcionários da instituição. Dentro deste contexto, uma necessidades primordial é assegurar o acesso restrito a ambientes de pessoas autorizadas, de modo a garantir a privacidade e proteção aos recursos de valor deste ambiente. Há também a necessidade de monitorar o histórioco de acesso aos ambientes, registrando-se a data, horário e usuário que acessou um determinado ambiente.
+Controlar o acesso a ambientes de sala de aula, surge da necessidade de garantir a segurança do ambiente, dos equipamentos, dos alunos, docentes e funcionários da instituição. Dentro deste contexto, uma necessidade primordial é assegurar o acesso restrito a ambientes de pessoas autorizadas, de modo a garantir a privacidade e proteção aos recursos de valor dentro desses ambientes. Há também a necessidade de monitorar o histórioco de acesso aos ambientes, registrando-se a data, horário e usuário que acessou um determinado ambiente.
 </p>
-<h4> 1.1 - Objetivo do Software </h2>
+
+<h4> 1.1 - Objetivo do Software </h4>
+
 <p>
    O objetivo do Sistema de Controle de Acesso a Ambientes é gerenciar o acesso a sala de aula, utilizando reconhecimento facial. Sua função principal consiste em reconher a face do usário, autorizar o  acesso, comandar a liberação da tranca eletromagnética do ambiente e manter o histórico com data, horário e usuário que acessou aquele espaço.
 </p>
-<br>
 <div align="center">
     <img src="imagens/sgambiente.png" alt="Texto alternativo" />
 </div>
 
-<h4> 1.2 - Escopo do Projeto e Requisitos de Software </h2>
-<br>
+<h4> 1.2 - Escopo do Projeto e Requisitos de Software </h4>
+
 <p>
-O escopo deste projeto restringe-se a implementar uma aplicação web que contemple as seguintes funcionalidades:
+O escopo deste projeto restringe-se a implementar uma aplicação web que contemple os seguintes requisitos funcionais:
 </p>
-</p>
-<br>
+
 <ul>
 <li> permitir o cadastro de diferentes tipos de ambientes, como sala de aula, laboratórios e  auditórios;
 </li>
@@ -62,25 +62,30 @@ permitir o cadastro do embarcado e o seu vinculo a um ambiente. O embarcado deve
     <thead>
     <tr>
         <th>ID</>
+        <th> Nome </th>
         <th>DESCRIÇÃO</>
     </tr>
     </thead>
     <tbody>
         <tr>
             <td>RF01</td>
-            <td>Cadastrar usuários</td>
+            <td>Manter usuários</td>
+            <td>o sistema deve permitir incluir, excluir, atualizar e buscar informações do usuário: nome, cpf, celular e e-mail;</td>
         </tr>
         <tr>
             <td>RF02</td>
             <td>Autenticar usuários</td>
+            <td>o sistema deve permitir incluir, excluir, atualizar e buscar informações do usuário: nome, cpf, celular e e-mail;</td>
         </tr>
         <tr>
             <td>RF03</td>
             <td>Manter perfil de usuários</td>
+            <td>o sistema deve permitir incluir, excluir, atualizar e buscar informações do usuário: nome, cpf, celular e e-mail;</td>
         </tr>
         <tr>
             <td>RF03</td>
             <td>Manter contato</td>
+            <td>o sistema deve permitir incluir, excluir, atualizar e buscar informações do usuário: nome, cpf, celular e e-mail;</td>
         </tr>
     </tbody>
 </table>
