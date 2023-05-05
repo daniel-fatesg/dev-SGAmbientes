@@ -27,11 +27,12 @@ Controlar o acesso a ambientes de sala de aula, surge da necessidade de garantir
 </div>
 
 <h4> 1.2 - Escopo do Projeto e Requisitos de Software </h4>
-
+<p>Os requisitos funcionais descrevem as funções, que o sistema deve executar e as tarefas que ele deve realizar. Neste documento, apresentaremos os requisitos funcionais do Sistema de Controle de Acesso a Ambientes, definidos a partir das necessidades do cliente vinculado a este projeto. As principais necessidades e requisitos funcionais abaixo. Além disso, apresentaremos uma descrição detalhada de como o modelo Entidade-Relacionamento (ER) foi desenvolvido para atender a esses requisitos, incluindo as entidades, relacionamentos e atributos necessários para armazenar e gerenciar as informações do sistema.</p>
+<br>
 <p>
-O escopo deste projeto restringe-se a implementar uma aplicação web que contemple os seguintes requisitos funcionais:
+Após diversas reuniões com o cliente, restringiu-se o escopo deste projeto a implementação de um aplicação web que contemple as necessidades detalhadas abaixo:
 </p>
-
+<br>
 <ul>
 <li> permitir o cadastro de diferentes tipos de ambientes, como sala de aula, laboratórios e  auditórios;
 </li>
@@ -49,7 +50,10 @@ permitir o cadastro do embarcado e o seu vinculo a um ambiente. O embarcado deve
 </li>
 
 </ul>
-
+<br>
+<br>
+<p> Fundamentado nas necessidades levantadas com o cliente, foram identificados os seguintes requisitos funcionais :
+<br>
 <br>
 <div align="center">
 <table>
@@ -86,9 +90,16 @@ permitir o cadastro do embarcado e o seu vinculo a um ambiente. O embarcado deve
 </div>
 <br>
 <h4> 1.4 - Modelo de Domínio </h2>
-<br>
+<p>A documentação do modelo Entidade-Relacionamento (ER) é uma etapa crucial no processo de desenvolvimento de um sistema de informação. O modelo ER é usado para representar a estrutura do banco de dados, incluindo as entidades, relacionamentos e atributos. A partir desse modelo, é possível criar um esquema de banco de dados que possa ser implementado em um sistema de gerenciamento de banco de dados (SGBD). Neste documento, apresentaremos o modelo ER para Sistema de Controle de Acesso a Ambientes que contém a descrição detalhada dessa estrutura, incluindo as entidades, relacionamentos, chaves primárias e estrangeiras.</p>
+<div align="center">
+    <img src="imagens/entidades.png" alt="Texto alternativo" />
+</div>
 <h3> 2 - Arquitetura do Software </h2>
+<p> A arquitetura de software de uma aplicação é o conjunto de decisões de design que definem como os diferentes componentes do sistema se relacionam e interagem entre si. Ela é responsável por garantir que a aplicação seja escalável, segura e capaz de lidar com as demandas dos usuários de forma eficiente. A documentação técnica da arquitetura de software é uma parte fundamental do processo de desenvolvimento, pois ajuda a equipe a entender como o sistema funciona e como cada componente se relaciona com os demais. Neste documento, serão descritos os principais componentes da arquitetura da aplicação, como eles se comunicam e quais são as suas responsabilidades. Além disso, serão apresentadas as principais tecnologias utilizadas na implementação da arquitetura, assim como as decisões de design que levaram à escolha dessas tecnologias.</p>
 <h4> 2.1 - Design da Arquitetura de Software </h2>
+<div align="center">
+    <img src="imagens/arquitetura-software.png" alt="Texto alternativo" />
+</div>
 <h4> 1.2 - Tecnologias da implementação </h2>
 <br>
 <h3> Referências </h3>
