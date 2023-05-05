@@ -115,14 +115,19 @@ permitir o cadastro do embarcado e o seu vinculo a um ambiente. O embarcado deve
 <br>
 <h3> Referências </h3>
 <br>
-<p>Docker. Disponível em: https://www.docker.com/. Acesso em: 05 maio 2023.</p>
-<p>Angular. Disponível em: https://angular.io/. Acesso em: 05 maio 2023.</p>
-<p>Spring Boot. Disponível em: https://spring.io/projects/spring-boot. Acesso em: 05 maio </p>
-<p>PostgreSQL. Disponível em: https://www.postgresql.org/. Acesso em: 05 maio 2023.</p>
-<p>TypeScript. Disponível em: https://www.typescriptlang.org/. Acesso em: 05 maio 2023.</p>
-<p>Java. Disponível em: https://www.java.com/. Acesso em: 05 maio 2023.</p>
+<ol>
+<li>Docker. Disponível em: https://www.docker.com/. Acesso em: 05 maio 2023.</li>
+<li>Angular. Disponível em: https://angular.io/. Acesso em: 05 maio 2023.</li>
+<li>Spring Boot. Disponível em: https://spring.io/projects/spring-boot. Acesso em: 05 maio </li>
+<li>PostgreSQL. Disponível em: https://www.postgresql.org/. Acesso em: 05 maio 2023.</li>
+<li>TypeScript. Disponível em: https://www.typescriptlang.org/. Acesso em: 05 maio 2023.</li>
+<li>Java. Disponível em: https://www.java.com/. Acesso em: 05 maio 2023.</li>
+</ol>
 <br>
 <h3> Contatos </h3>
+<br>
 <p><b>Daniel Corrêa da Silva</b></p>
-<p>E-mail: danielcs.senai@fieg.com.br</p>
+<ul>
+<li>E-mail: danielcs.senai@fieg.com.br</li>
+</ul>
 
